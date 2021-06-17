@@ -1,0 +1,89 @@
+.grid-user {
+    width: 400px;
+    height: 400px;
+    background: rgb(247, 112, 231);
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.grid-user div {
+    width: 40px;
+    height: 40px;
+    background-color: antiquewhite;
+}
+.grid-computer div {
+    width: 40px;
+    height: 40px;
+    background-color: antiquewhite;
+}
+
+
+.grid-computer {
+    width: 400px;
+    height: 400px;
+    background: rgb(120, 173, 59);
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap
+}
+
+.grid-display {
+    width: 400px;
+    height: 400px;
+    background: rgb(21, 188, 230);
+    margin: 20px;
+
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.destroyer-container {
+    width: 80px;
+    height: 40px;
+    display: flex;
+    background: rgb(218, 135, 46);
+
+}
+
+.submarine-container {
+    width: 120px;
+    height: 40px;
+    display: flex;
+    background: rgb(0, 6, 9);
+
+}
+
+.cruiser-container {
+    width: 120px;
+    height: 40px;
+    display: flex;
+    background: rgb(158, 37, 53);
+
+}
+
+.battleship-container {
+    width: 160px;
+    height: 40px;
+    display: flex;
+    background: rgb(67, 156, 78);
+
+}
+
+.carrier-container {
+    width: 200px;
+    height: 40px;
+    display: flex;
+    background: rgb(126, 126, 119);
+}
+
+.ship div {
+    width: 40px;
+    height: 40px;
+
+}
