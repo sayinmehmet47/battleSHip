@@ -1,1 +1,1 @@
-https://condescending-gates-881eb6.netlify.app/
+https://battleshipgame46.netlify.app/
